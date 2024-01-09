@@ -18,8 +18,13 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in Pyt
 ## Getting Started
 
 1. Clone or download the repository to your local machine.
+   `git clone https://github.com/Aishwarya-Narayanan/Rock-Paper-Scissor-Game.git`
+
 2. Make sure you have Python installed.
-3. Run the script using a Python interpreter.
+   
+3. Navigate to the project directory:
+   `cd Rock-Paper-Scissor-Game`
+4. Run the script using a Python interpreter.
 
 ```bash
-python rock_paper_scissors.py
+python rock_paper_scissor.py
