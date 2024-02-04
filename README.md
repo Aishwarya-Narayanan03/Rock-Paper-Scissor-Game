@@ -15,7 +15,7 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in Pyt
 - Scissors cut paper.
 - Paper covers rock.
 
-## Getting Started
+
 
 ## Getting Started
 
